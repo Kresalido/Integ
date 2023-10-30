@@ -14,13 +14,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-        <title>End</title>
+        <title>Dashboard Page</title>
         <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 
 <div class="header">
-        <h2>You Have Successfully Registered!!</h2>
+        <h2>Welcome to Dashboard!!</h2>
 </div>
 <div class="content">
         <!-- notification message -->
